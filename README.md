@@ -17,7 +17,7 @@ You can use :
 * the shield dash every 3s
 * the ultimate spin every 20s
 
-This game was made by ano002 and NufNuf
+This game was made by ano002 and NufNuf for the [pyweek 31](https://pyweek.org/31/entries/) 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
